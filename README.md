@@ -1,2 +1,4 @@
 # NotesApp
-Created with CodeSandbox
+This is a Notes App created following the instructions in the course by Angela yu
+
+
